@@ -53,12 +53,14 @@ Deeper understanding of text data loading, pre-processing, and LSTM network appl
 ![Logo](https://github.com/AKGanesh/Basic_Text_Classification_StackOVQs/blob/main/trvl.png)
 ![Logo](https://github.com/AKGanesh/Basic_Text_Classification_StackOVQs/blob/main/trvla.png)
 
-examples = tf.constant([
+- examples = tf.constant([
   "I just want to ask that how to take random string just like randint but this time with random string. Is there anyway?print('Hi. Please enter your name in letters')name= str(input())",
   "function getCSVString(){return ['nom', 'telèfon', 'email'].join(',') + '\n'+ filteredMembers.value.map(member => {return [member.nom, member.telèfon, member.email].join(',') + '\n'})}",
   "In order to see the actual size of each enum, let's make an actual enum and examine the contents of the class file it creates.Let's say we have the following Constants enum class:public enum Constants {ONE,TWO,THREE;}"
 ])
-[[0.5685896  0.5087982  0.4961543  0.4264526 ]
+
+
+- [[0.5685896  0.5087982  0.4961543  0.4264526 ]
  [0.4839007  0.3931374  0.6648914  0.47166   ]
  [0.5860039  0.54575324 0.45651245 0.4120066 ]]
 array([0, 2, 0])
