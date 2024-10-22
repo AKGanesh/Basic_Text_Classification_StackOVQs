@@ -1,4 +1,4 @@
-![Logo](https://github.com/AKGanesh/Basic_Text_Classification_StackOVQs/blob/main/scd.jpg) | Image: ScienceDirect|S0164121219302791
+![Logo](https://github.com/AKGanesh/Basic_Text_Classification_StackOVQs/blob/main/scd.jpg)
 
 # Stack Overflow Text Classification with LSTMs
 This project aims to classify Stack Overflow questions into one of four programming languages: Python, CSharp, JavaScript, or Java. We'll leverage the power of Long Short-Term Memory (LSTM) networks to achieve this task.
@@ -79,7 +79,7 @@ Key concepts:
 
 ## Acknowledgements
 - https://www.tensorflow.org/tutorials/keras/text_classification
-
+- https://www.sciencedirect.com/science/article/abs/pii/S0164121219302791 (Readme header image)
 
 ## Contact
 
